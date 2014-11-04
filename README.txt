@@ -1,6 +1,7 @@
 Git OSX Installer
 =================
 Dit is een aanpassing van Johan
+En deze aanpassing is gedaan in ‘mybranch’ 
 =================
 
 https://github.com/timcharper/git_osx_installer/
