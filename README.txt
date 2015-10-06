@@ -1,6 +1,6 @@
 Git OSX Installer
 =================
-Dit is een aanpassing van Johan
+Dit is een aanpassing van Johan2
 En deze aanpassing is gedaan in ‘mybranch’ 
 =================
 
